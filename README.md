@@ -569,6 +569,4 @@ MIT License - see [LICENSE](../LICENSE) file for details
 
 ---
 
-**⚠️ Disclaimer:** This is a reference implementation for educational purposes. Not audited. Use at your own risk.
-
 **Built with ❤️ for trustless AI agent ecosystems**
